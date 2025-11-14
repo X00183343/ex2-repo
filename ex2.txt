@@ -1,0 +1,97 @@
+git status
+git add ex2
+git status
+git init ex2
+git commit -m "first commit"
+git config --global user.name x00183343
+git config --global user.email x00183343@mytudublin.ie
+git config --global core.autocrlf false
+git status
+git branch
+git branch -m master main
+git branch -main
+git branch -m main
+git status
+git --help
+git init
+git init ex2
+git add .
+git md ex2
+git --help
+git branch
+git pull ex2
+git commit -m "first commit"
+git add ex2
+git add "ex2"
+git add ex2/
+git init ex2/
+git init ex2
+git add ex2
+git add .
+git commit -m "first commit"
+git init ex2
+git branch -m main
+git status
+git add .
+git add appv1.py
+git add error.log
+git add info.gitignore.md
+git status
+git add ex2/
+git status
+git commit -m "first commit"
+git branch -m main feature1-shop
+git status
+git add .
+git status
+git add appv1.py
+git commit -m "Feature shop commit"
+git branch -m feature1-shop main
+git status
+git status
+git add appv1.py
+git commit -m "Main branch change commit"
+git checkout main
+git merge feature1-shop
+git merge feature1-shop[
+git merge feature1-shop
+git branch
+git branch -m main feature1-shop
+git branch
+git branch -m feature1-shop main
+git merge feature1-shop
+git merge feature1-shop
+git --help
+git merge
+git merge feature1-shop[
+git merge feature1-shop
+git merge feature1-shop
+git merge feature1-shop main
+git branch
+git branch feature1-shop
+git branch
+git status
+git merge feature1-shop
+git add ex2/
+git switch main
+git merge feature1-shop
+git remote add origin https://github.com/X00183343/ex2-repo.git
+git push
+git status
+git add
+git status
+git push
+git remote add origin https://github.com/X00183343/ex2-repo.git
+git branch -M main
+git push -u origin main
+
+git rm --cached README
+git rm --cached info
+git rm --cached info.gitignore.md
+git add .
+git commit -m "fix mistake"
+git push -u origin main
+git pull
+git push -u origin main
+git pull
+git status
